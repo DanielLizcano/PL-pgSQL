@@ -1,2 +1,2 @@
 # PL-pgSQL
-procedimientos almacenadosd para postgres
+procedimientos almacenados postgres
