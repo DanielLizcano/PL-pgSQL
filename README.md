@@ -1,2 +1,2 @@
-# PL-pgSQL
-procedimientos almacenados postgres
+# Curso PL-pgSQL
+Acercamiento sobre los procedimientos almacenados en postgres
